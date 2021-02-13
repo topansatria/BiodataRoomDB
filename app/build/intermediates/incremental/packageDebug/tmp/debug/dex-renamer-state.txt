@@ -1,0 +1,7 @@
+#Sat Feb 13 14:22:58 WIB 2021
+base.0=/home/xniubie/Documents/xniubie/Biodata Siswa/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/xniubie/Documents/xniubie/Biodata Siswa/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
